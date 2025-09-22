@@ -1,2 +1,2 @@
 # cxm-core
-Core of the CXM CMS using Laravel &amp; MoonShine
+Core of the CXM CMS using Laravel &amp; Filament
